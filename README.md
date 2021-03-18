@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmathew-k
-- 👀 I’m interested in JavaScript, MERN Stack & Machine Learning
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on NoCode Workflow Automation tools
+- 🧬 I’m interested in JavaScript, MERN Stack & Machine Learning
+- 🎲 I’m currently learning React
+- 🔬 I’m looking to collaborate on NoCode Workflow Automation tools
 - 📫 How to reach me -> my twitter handle is @JoshuaMathewK
 
 <!---
