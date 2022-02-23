@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmathew-k
-- 🧬 I’m interested in JavaScript, Node.js & Machine Learning
-- 🎲 I’m currently learning React
-- 🔬 I’m looking to collaborate on NoCode Workflow Automation tools
+- 🧬 I’m interested in JavaScript, Rust & Distributed Systems
+- 🎲 I’m currently learning Solana
+- 🔬 I’m looking to collaborate on NFt projects!
 - 📫 How to reach me -> my twitter handle is @JoshuaMathewK
 
 <!---
