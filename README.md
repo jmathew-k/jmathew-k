@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jmathew-k
 - 🧬 I’m interested in JavaScript, Rust & Distributed Systems
-- 🎲 I’m currently learning Solidity
-- 🔬 I’m looking to collaborate on NFT projects!
-- 📫 How to reach me -> my twitter handle is @joshkmatt
+- 🎲 I’m currently learning Mojo!
+- 🔬 I’m looking to collaborate on AI projects!
+- 📫 How to reach me -> my Twitter handle is @tx1yz0
 
 <!---
 jmathew-k/jmathew-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
